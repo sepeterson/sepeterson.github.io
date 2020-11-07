@@ -40,7 +40,5 @@
   "devDependencies": {
     "gh-pages": "^3.1.0"
   },
-  "homepage": {
-    "http://peterson.cool"
-  }
+  "homepage": "http://sepeterson.github.io"
 }
